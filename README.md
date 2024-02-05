@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Kamlesh Kumar</h1>
+<h1 align="center">Hi Developers, I'm Kamlesh Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **React, Node, Express, MongoDB**
+- 💬 Ask me about **React, Node, Express, MongoDB, Docker, Jenkins**
 
-- 📫 How to reach me **kmk08052003@gmail.com**
+- 📫 How to reach me **kamleshsirvi5841@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1kRC15HrIkcktXpQxS67JUCGufbOI7ePT](https://drive.google.com/drive/folders/1kRC15HrIkcktXpQxS67JUCGufbOI7ePT)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1xTgcp8f8ATLjWPKm26iKqwfX8qTWxiNb)
 
 - ⚡ Fun fact **You can Ask me Anything.**
 

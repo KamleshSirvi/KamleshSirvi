@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kamleshsirvi5841@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1xTgcp8f8ATLjWPKm26iKqwfX8qTWxiNb)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/2/folders/1YvWEFuau6_A_aNWs6Z_a44PGW57th5uS)
 
 - ⚡ Fun fact **You can Ask me Anything.**
 
